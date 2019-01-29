@@ -1,0 +1,3 @@
+# AngularProjectFiles
+
+Basic angular project with all the get post request etc...
